@@ -26,7 +26,7 @@ npm run develop
 * GraphQL
 
 ## Preview
-![alt text](https://github.com/sboucher2011/deep-thoughts/tree/main/client/public/readme.png)
+![alt text](https://github.com/sboucher2011/deep-thoughts/blob/main/client/public/readme.jpg)
 
 ## Deployed
 https://intense-gorge-65965.herokuapp.com/
